@@ -1,0 +1,172 @@
+<?xml version = "1.0"?>
+<quiz>
+	<question>
+		<ask>What is the name of the movie that this meme comes from?</ask>
+		<correctanswer>Downfall</correctanswer>
+		<picture>question1.jpg</picture>
+		<answers>
+			<answer>
+				<text>Stalingrad</text>
+			</answer>
+
+			<answer>
+				<text>Downfall</text>
+			</answer>
+
+			<answer>
+				<text>Band of Brothers</text>
+			</answer>
+
+			<answer>
+				<text>The Fuhrer</text>
+			
+			</answer>
+		</answers>
+	</question>
+
+	<question>
+		<ask>What is the name of this actor?</ask>
+		<correctanswer>Bruno Ganz</correctanswer>
+		<picture>question1.jpg</picture>
+		<answers>
+			<answer>
+				<text>Bruno Ganz</text>
+			</answer>
+			<answer>
+				<text>Ulrich Matthes</text>
+			</answer>
+			<answer>
+				<text>Thomas Kretschmann</text>
+			</answer>
+			<answer>
+				<text>Hans Funck</text>
+			</answer>
+		</answers>
+
+	</question>
+
+	<question>
+		<ask>What is the name of the youtube account in which this first appeared in?</ask>
+		<picture>question2.jpg</picture>
+		<correctanswer>wzr0713</correctanswer>
+		<answers>
+		<answer>
+			<text>wzr0713</text>
+		</answer>
+		<answer>
+			<text>rerer434</text>
+		</answer>
+		<answer>
+			<text>karetoshare</text>
+		</answer>
+		<answer>
+			<text>blueberrypie573</text>
+		</answer>
+
+		</answers>
+	
+	</question>
+
+	<question>
+		<ask>What date did this picture first appear on the internet?</ask>
+		<picture>question2.jpg</picture>
+		<correctanswer>June 6 2012</correctanswer>
+		<answers>
+			<answer>
+				<text>Aug 12 2011</text>
+			</answer>
+			<answer>
+				<text>Oct 22 2010</text>
+			</answer>
+			<answer>
+				<text>Aug 13 2011</text>
+			</answer>
+			<answer>
+				<text>June 6 2012</text>
+			</answer>
+		</answers>
+	</question>
+
+	<question>
+		<ask>This is a stock photo from which company?</ask>
+		<correctanswer>Corbis Images</correctanswer>
+		<picture>question3.png</picture>
+
+		<answers>
+			<answer>
+				<text>Foter</text>
+			</answer>
+			<answer>
+				<text>Getty Images</text>
+			</answer>
+			<answer>
+				<text>Sipa Press</text>
+			</answer>
+			<answer>
+				<text>Corbis Images</text>
+			</answer>
+		</answers>
+	</question>
+
+	<question>
+		<ask>Which website did this meme originate from?</ask>
+		<correctanswer>quickmeme</correctanswer>
+		<picture>question3.png</picture>
+		<answers>
+			<answer>
+				<text>memebase</text>
+			</answer>
+			<answer>
+				<text>funnyjunk</text>
+			</answer>
+			<answer>
+				<text>4chan</text>
+			</answer>
+			<answer>
+				<text>quickmeme</text>
+			</answer>
+		</answers>
+	</question>
+
+	<question>
+		<ask>What is the name of the comedy show in which this image first appeared?</ask>
+		<correctanswer>Panic Face King</correctanswer>
+		<picture>question4.jpeg</picture>
+		<answers>
+			<answer>
+				<text>Takeshi Castle</text>
+			</answer>
+			<answer>
+				<text>Panic Face King</text>
+			</answer>
+			<answer>
+				<text>Spank the laugh</text>
+			</answer>
+			<answer>
+				<text>The Big Moment</text>
+			</answer>
+		</answers>
+	</question>
+
+	<question>
+		<ask>What is the name of the person above?</ask>
+		<correctanswer>Ayumu Kato</correctanswer>
+		<picture>question4.jpg</picture>
+		<answers>
+			<answer>
+				<text>Katashi Samosoro</text>
+			</answer>
+			<answer>
+				<text>Konno Miko</text>
+			</answer>
+			<answer>
+				<text>Ayumu Kato</text>
+			</answer>
+			<answer>
+				<text>Nakamura Asuka</text>
+			</answer>
+		</answers>
+	</question>
+	
+
+</quiz>
